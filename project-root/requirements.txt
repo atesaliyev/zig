@@ -1,0 +1,5 @@
+Flask==2.2.5
+requests==2.31.0
+beautifulsoup4==4.12.2
+urllib3==1.26.18
+# eğer anti-captcha kütüphanesi varsa ekle, yoksa requests üzerinden zaten çekiyorsun
